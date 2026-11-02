@@ -1,85 +1,85 @@
 [
   {
     "name": "Google Baseball",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/google-baseball.jpg",
+    "img": "https://esm.sh/gh/tharun9772/game-assets@main/google-baseball.jpg",
     "url": "/app-viewer/?view=/gameFiles/google-baseball",
     "engine": "blox"
   },
   {
     "name": "Google Snake Game",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/246309_7_sq.jpg",
+    "img": "https://esm.sh/gh/tharun9772/game-assets@main/246309_7_sq.jpg",
     "url": "/app-viewer/?view=/gameFiles/snake-game",
     "engine": "blox"
   },
   {
     "name": "Google Baseball",
-    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//257.png",
+    "img": "https://esm.sh/gh/freebuisness/covers@main//257.png",
     "url": "/app-viewer/gn-math/?gn-id=257",
     "engine": "gn"
   },
   {
     "name": "Google Feud",
-    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//361.png",
+    "img": "https://esm.sh/gh/freebuisness/covers@main//361.png",
     "url": "/app-viewer/gn-math/?gn-id=361",
     "engine": "gn"
   },
   {
     "name": "googlebaseball",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "img": "https://esm.sh/gh/tharun9772/game-assets@main/5968517.png",
     "url": "/app-viewer/ugs-files?view=clgooglebaseball.html",
     "engine": "ugs"
   },
   {
     "name": "googledino",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "img": "https://esm.sh/gh/tharun9772/game-assets@main/5968517.png",
     "url": "/app-viewer/ugs-files?view=clgoogledino.html",
     "engine": "ugs"
   },
   {
     "name": "icantbelievegoogleflaggedmeforthenameofthefilelol",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "img": "https://esm.sh/gh/tharun9772/game-assets@main/5968517.png",
     "url": "/app-viewer/ugs-files?view=clicantbelievegoogleflaggedmeforthenameofthefilelol.html",
     "engine": "ugs"
   },
   {
     "name": "Google Baseball",
-    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/googlebaseball.png",
+    "img": "https://esm.sh/gh/carbonicality/ChickenKingsVault@main/gameimages/googlebaseball.png",
     "url": "/app-viewer/chicken-kings-vault/?view=googlebaseball.html",
     "engine": "ckv"
   },
   {
     "name": "Google Dino",
-    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/googledino.png",
+    "img": "https://esm.sh/gh/carbonicality/ChickenKingsVault@main/gameimages/googledino.png",
     "url": "/app-viewer/chicken-kings-vault/?view=googledino.html",
     "engine": "ckv"
   },
   {
     "name": "Google Feud",
-    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/googlefeud.png",
+    "img": "https://esm.sh/gh/carbonicality/ChickenKingsVault@main/gameimages/googlefeud.png",
     "url": "/app-viewer/chicken-kings-vault/?view=googlefeud.html",
     "engine": "ckv"
   },
   {
     "name": "Google Baseball",
-    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/google-baseball.avif",
+    "img": "https://esm.sh/gh/tharuniscool/hydra-assets@main/thumbs/google-baseball.avif",
     "url": "/app-viewer/hydra-network/?view=google-baseball.html",
     "engine": "hydra"
   },
   {
     "name": "Google Feud",
-    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/google-feud.avif",
+    "img": "https://esm.sh/gh/tharuniscool/hydra-assets@main/thumbs/google-feud.avif",
     "url": "/app-viewer/hydra-network/?view=google-feud.html",
     "engine": "hydra"
   },
   {
     "name": "Google Champion Island",
-    "img": "https://cdn.jsdelivr.net/gh/ccported/games@main/game_e9a7_3a970d3128867/thumb.jpg",
+    "img": "https://esm.sh/gh/ccported/games@main/game_e9a7_3a970d3128867/thumb.jpg",
     "url": "/app-viewer/ccported/?view=133",
     "engine": "ccported"
   },
   {
     "name": "Google Drive",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "img": "https://esm.sh/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
     "url": "/app-viewer/google-class/?view=drive.html",
     "engine": "googleclass"
   },
@@ -97,13 +97,13 @@
   },
   {
     "name": "google-snake",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/google-snake.png",
+    "img": "https://esm.sh/gh/tharun9772/LupineVault@main/assets/images/games/tile/google-snake.png",
     "url": "/app-viewer/LupineVault/?view=google-snake",
     "engine": "lupine"
   },
   {
     "name": "google-solitaire",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/google-solitaire.png",
+    "img": "https://esm.sh/gh/tharun9772/LupineVault@main/assets/images/games/tile/google-solitaire.png",
     "url": "/app-viewer/LupineVault/?view=google-solitaire",
     "engine": "lupine"
   },
@@ -175,13 +175,13 @@
   },
   {
     "name": "Google Baseball",
-    "img": "https://cdn.jsdelivr.net/gh/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/images/435.jpg",
+    "img": "https://esm.sh/gh/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/images/435.jpg",
     "url": "/app-viewer/noah/?view=games/435.html",
     "engine": "noahh"
   },
   {
     "name": "Google Feud",
-    "img": "https://cdn.jsdelivr.net/gh/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/images/262.jpg",
+    "img": "https://esm.sh/gh/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/images/262.jpg",
     "url": "/app-viewer/noah/?view=games/138.html",
     "engine": "noahh"
   }

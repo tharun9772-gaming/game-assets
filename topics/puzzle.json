@@ -1,13 +1,13 @@
 [
   {
     "name": "Chiikawa Puzzle",
-    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//539.png",
+    "img": "https://esm.sh/gh/freebuisness/covers@main//539.png",
     "url": "/app-viewer/gn-math/?gn-id=539",
     "engine": "gn"
   },
   {
     "name": "superpuzzlefighter2turboalt",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "img": "https://esm.sh/gh/tharun9772/game-assets@main/5968517.png",
     "url": "/app-viewer/ugs-files?view=clsuperpuzzlefighter2turboalt.html",
     "engine": "ugs"
   },
@@ -19,19 +19,19 @@
   },
   {
     "name": "superpuzzlefighter2turbo",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "img": "https://esm.sh/gh/tharun9772/game-assets@main/5968517.png",
     "url": "/app-viewer/ugs-files?view=clsuperpuzzlefighter2turbo.html",
     "engine": "ugs"
   },
   {
     "name": "NutsandBoltsScrewingPuzzle",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "img": "https://esm.sh/gh/tharun9772/game-assets@main/5968517.png",
     "url": "/app-viewer/ugs-files?view=clNutsandBoltsScrewingPuzzle.html",
     "engine": "ugs"
   },
   {
     "name": "puzzle-ball",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/puzzle-ball.png",
+    "img": "https://esm.sh/gh/tharun9772/LupineVault@main/assets/images/games/tile/puzzle-ball.png",
     "url": "/app-viewer/LupineVault/?view=puzzle-ball",
     "engine": "lupine"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "Scary Maze Game",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/scarymaze.png",
+    "img": "https://esm.sh/gh/tharun9772/game-assets@main/scarymaze.png",
     "url": "/app-viewer/?view=/gameFiles/scary-maze-game",
     "engine": "blox"
   },
@@ -61,19 +61,19 @@
   },
   {
     "name": "Amaze",
-    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//26.png",
+    "img": "https://esm.sh/gh/freebuisness/covers@main//26.png",
     "url": "/app-viewer/gn-math/?gn-id=26",
     "engine": "gn"
   },
   {
     "name": "Maze Speedrun",
-    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//324.png",
+    "img": "https://esm.sh/gh/freebuisness/covers@main//324.png",
     "url": "/app-viewer/gn-math/?gn-id=324",
     "engine": "gn"
   },
   {
     "name": "the-maze-of-space-goblins",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/the-maze-of-space-goblins.png",
+    "img": "https://esm.sh/gh/tharun9772/LupineVault@main/assets/images/games/tile/the-maze-of-space-goblins.png",
     "url": "/app-viewer/LupineVault/?view=the-maze-of-space-goblins",
     "engine": "lupine"
   },

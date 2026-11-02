@@ -7,13 +7,13 @@
   },
   {
     "name": "Solitarie Social",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/solitare-socialede.webp",
+    "img": "https://esm.sh/gh/tharun9772/game-assets@main/nowgg.fun/img/solitare-socialede.webp",
     "url": "/sail/embed/#https://nowgg.lol/apps/kosmos-games/51904/solitaire-social.html",
     "engine": "nowgg"
   },
   {
     "name": "Uno",
-    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/uno.jpg",
+    "img": "https://esm.sh/gh/carbonicality/ChickenKingsVault@main/gameimages/uno.jpg",
     "url": "/app-viewer/chicken-kings-vault/?view=unogame.html",
     "engine": "ckv"
   },
